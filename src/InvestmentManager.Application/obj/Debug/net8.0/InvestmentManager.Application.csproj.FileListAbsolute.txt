@@ -1,0 +1,15 @@
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\bin\Debug\net8.0\InvestmentManager.Application.deps.json
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\bin\Debug\net8.0\InvestmentManager.Application.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\bin\Debug\net8.0\InvestmentManager.Application.pdb
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\bin\Debug\net8.0\InvestmentManager.Domain.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\bin\Debug\net8.0\InvestmentManager.Domain.pdb
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\InvestmentManager.Application.csproj.AssemblyReference.cache
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\InvestmentManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\InvestmentManager.Application.AssemblyInfoInputs.cache
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\InvestmentManager.Application.AssemblyInfo.cs
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\InvestmentManager.Application.csproj.CoreCompileInputs.cache
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\Investme.DF84AE48.Up2Date
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\InvestmentManager.Application.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\refint\InvestmentManager.Application.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\InvestmentManager.Application.pdb
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Application\obj\Debug\net8.0\ref\InvestmentManager.Application.dll

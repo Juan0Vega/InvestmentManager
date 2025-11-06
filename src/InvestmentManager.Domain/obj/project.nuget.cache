@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtXlrDgOGpy9CiSKD51LsUXb5EyL9jHqZTqAar9QQtyMSeTvw0gJPPP/LiWtJJR/gF0UCGHthxmyqhmwAjAhaA==",
+  "success": true,
+  "projectFilePath": "X:\\ProyectosVS\\source\\repos\\InvestmentManager\\src\\InvestmentManager.Domain\\InvestmentManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\awssdk.core\\4.0.2\\awssdk.core.4.0.2.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.9.4\\awssdk.dynamodbv2.4.0.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}

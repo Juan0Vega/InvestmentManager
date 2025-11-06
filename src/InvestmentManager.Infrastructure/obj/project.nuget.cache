@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "3eP6qdSGtsrYlQLrfb15Z6fPOPTDhOQwiqBfr5lhtKe5rPbwC1EzVAQ3Oxe1gBI23LdXQtq9PqaehShzXLAULA==",
+  "success": true,
+  "projectFilePath": "X:\\ProyectosVS\\source\\repos\\InvestmentManager\\src\\InvestmentManager.Infrastructure\\InvestmentManager.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\awssdk.core\\4.0.2\\awssdk.core.4.0.2.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.9.4\\awssdk.dynamodbv2.4.0.9.4.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.10\\microsoft.extensions.logging.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\JUAN DAVID\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.10\\system.diagnostics.diagnosticsource.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

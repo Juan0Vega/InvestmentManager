@@ -1,0 +1,12 @@
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\bin\Debug\net8.0\InvestmentManager.Domain.deps.json
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\bin\Debug\net8.0\InvestmentManager.Domain.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\bin\Debug\net8.0\InvestmentManager.Domain.pdb
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\InvestmentManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\InvestmentManager.Domain.AssemblyInfoInputs.cache
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\InvestmentManager.Domain.AssemblyInfo.cs
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\InvestmentManager.Domain.csproj.CoreCompileInputs.cache
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\InvestmentManager.Domain.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\refint\InvestmentManager.Domain.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\InvestmentManager.Domain.pdb
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\ref\InvestmentManager.Domain.dll
+X:\ProyectosVS\source\repos\InvestmentManager\src\InvestmentManager.Domain\obj\Debug\net8.0\InvestmentManager.Domain.csproj.AssemblyReference.cache
