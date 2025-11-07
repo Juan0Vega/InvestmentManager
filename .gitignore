@@ -1,0 +1,52 @@
+# Compilación
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Configuración y temporales de VS
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas comunes
+.vscode/
+.idea/
+.env
+node_modules/
+
+# Archivos del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Build de publicación
+publish/
+wwwroot/dist/
+wwwroot/build/
+
+# Archivos de pruebas
+TestResults/
+*.coverage
+*.coveragexml
+
+# Otros específicos de .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configuración de entorno local
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
