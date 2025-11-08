@@ -13,6 +13,7 @@ namespace InvestmentManager.Infrastructure.Repositories
     public class FundRepository : IFundRepository
     {
         private readonly DynamoDBContext _context;
+
         public FundRepository(IAmazonDynamoDB dynamoDB)
         {
             _context = new DynamoDBContext(dynamoDB);

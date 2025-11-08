@@ -50,3 +50,7 @@ artifacts/
 appsettings.Development.json
 appsettings.Local.json
 secrets.json
+
+# Front
+frontend/node_modules/
+frontend/dist/

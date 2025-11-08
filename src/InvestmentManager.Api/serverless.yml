@@ -1,0 +1,24 @@
+org: juanvega
+app: investment-manager-api
+service: investment-manager-api
+
+provider:
+  name: aws
+  runtime: dotnet8
+  region: us-east-1
+  architecture: x86_64
+  memorySize: 1024
+  timeout: 30
+  httpApi:
+    throttling:
+      burstLimit: 5
+      rateLimit: 10
+
+package:
+  artifact: deployment.zip
+
+functions:
+  api:
+    handler: InvestmentManager.Api::InvestmentManager.Api.LambdaEntryPoint::FunctionHandlerAsync
+    events:
+      - httpApi: '*'
