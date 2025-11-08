@@ -54,6 +54,9 @@ namespace InvestmentManager.Application.Services
             if (transaction.Amount > client.CurrentBalance)
                 throw new Exception($"El monto ({transaction.Amount}) no puede ser mayor al saldo actual del cliente ({client.CurrentBalance}).");
 
+            if(fund.MinAmount > transaction.Amount)
+                throw new Exception($"El monto minimo para invertir al fondo es de: ({fund.MinAmount}).");
+
             // Parametros de transacción
             transaction.FundName = fund.Name;
             transaction.Type = TransactionTypes.OPEN;
