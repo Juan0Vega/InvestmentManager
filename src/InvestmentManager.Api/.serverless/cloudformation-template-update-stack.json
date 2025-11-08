@@ -91,7 +91,7 @@
       "Properties": {
         "Code": {
           "S3Bucket": "serverless-framework-deployments-us-east-1-1da692ac-3da9",
-          "S3Key": "serverless/investment-manager-api/dev/1762577017339-2025-11-08T04:43:37.339Z/deployment.zip"
+          "S3Key": "serverless/investment-manager-api/dev/1762635780179-2025-11-08T21:03:00.179Z/deployment.zip"
         },
         "Handler": "InvestmentManager.Api::InvestmentManager.Api.LambdaEntryPoint::FunctionHandlerAsync",
         "Runtime": "dotnet8",
@@ -112,14 +112,14 @@
         "ApiLogGroup"
       ]
     },
-    "ApiLambdaVersionEf5tWROMR2FurfbQw5h4jEaUed3TwgtQoKikBoQvk": {
+    "ApiLambdaVersionu0r6BmuQrvTMoyykcGNtrecJ5VPL1xQ3OrCADriw": {
       "Type": "AWS::Lambda::Version",
       "DeletionPolicy": "Retain",
       "Properties": {
         "FunctionName": {
           "Ref": "ApiLambdaFunction"
         },
-        "CodeSha256": "DaaAi8XV83y7LS33DANFgviLOVNBV57nOiZSPzSekhs="
+        "CodeSha256": "D0gaLRbcSojWyuVig/zEHQOmRGDB1PxPqJR2Y4W8+hQ="
       }
     },
     "HttpApi": {
@@ -228,7 +228,7 @@
     "ApiLambdaFunctionQualifiedArn": {
       "Description": "Current Lambda function version",
       "Value": {
-        "Ref": "ApiLambdaVersionEf5tWROMR2FurfbQw5h4jEaUed3TwgtQoKikBoQvk"
+        "Ref": "ApiLambdaVersionu0r6BmuQrvTMoyykcGNtrecJ5VPL1xQ3OrCADriw"
       },
       "Export": {
         "Name": "sls-investment-manager-api-dev-ApiLambdaFunctionQualifiedArn"
